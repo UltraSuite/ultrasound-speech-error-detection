@@ -1,0 +1,1 @@
+07F-028A.wav sox ../sample_data/07F-028A.wav -r 16000 -t .wav - |
